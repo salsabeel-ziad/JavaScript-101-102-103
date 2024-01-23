@@ -1,1 +1,1 @@
-# SaterProjects
+# JavaScript 101
